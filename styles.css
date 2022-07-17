@@ -33,7 +33,7 @@ img {
 }
 
 .card__details {
-	padding: 2rem;
+	padding: 2.1rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
