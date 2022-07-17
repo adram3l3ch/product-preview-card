@@ -89,11 +89,12 @@ img {
 	align-items: center;
 	gap: 0.75rem;
 	cursor: pointer;
-	transition: transform 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 .cta:hover {
 	transform: translateY(-2px);
+	background-color: hsl(158, 36%, 20%);
 }
 
 @media (max-width: 600px) {
